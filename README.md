@@ -1,2 +1,2 @@
 # PRODIGY_CS
-Prodigy Internship Works
+Prodigy Cybersecurity Internship Tasks
